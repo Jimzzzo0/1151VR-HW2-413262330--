@@ -1,4 +1,4 @@
-
+A向前 D向後 空白建跳躍
 
 https://github.com/user-attachments/assets/769d8595-78f4-47f6-8615-111217a69dbe
 
